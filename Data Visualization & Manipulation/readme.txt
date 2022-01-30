@@ -1,2 +1,2 @@
-In this project I will test my skills of manipulating, cleaning and visualizing data and feature engineering
+In this project I will test my skills of data cleaning, manipulation and visualization and feature engineering
 through the analysis and combination of several datasets.
